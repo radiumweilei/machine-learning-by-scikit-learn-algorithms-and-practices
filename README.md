@@ -8,3 +8,6 @@
 * \# conda install -n machine-learning-by-scikit-learn-algorithms-and-practices --file requirements.txt
 * \# conda remove -n your_env_name --all
 * \# conda remove --name your_env_name package_name
+
+## 按照如下步骤启动Jupyter
+* /Users/weilei/anaconda3/envs/machine-learning-by-scikit-learn-algorithms-and-practices/bin/jupyter notebook
