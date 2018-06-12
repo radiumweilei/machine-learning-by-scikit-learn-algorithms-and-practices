@@ -68,3 +68,8 @@ target/
 24.HMM/pi.txt
 24.HMM/B.txt
 .ipynb_checkpoints
+data.csv
+datasets/mlcomp/379
+datasets/clustering/data
+titanic.dot
+digits_svm.pkl
